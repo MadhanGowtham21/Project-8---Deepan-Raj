@@ -1,0 +1,6 @@
+{
+  "name": "Wireless Interference Detection & Adaptive Recovery Simulator",
+  "description": "ME-level engineering simulator for unsupervised AI-based wireless interference detection using Isolation Forest and autonomous closed-loop link recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
